@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "vorname": "Ismael",
+    "nachname": "Alkayed",
+    "alter": 25,
+    "krankenkasse": "AOKPLUS",
+    "historie": []
+  },
+  {
+    "id": 2,
+    "vorname": "Max",
+    "nachname": "Müller",
+    "alter": 29,
+    "krankenkasse": "AOK",
+    "historie": []
+  },
+  {
+    "id": 3,
+    "vorname": "Carl",
+    "nachname": "Schröder",
+    "alter": 19,
+    "krankenkasse": "AOKPLUS",
+    "historie": []
+  },
+  {
+    "id": 4,
+    "vorname": "Maximilian",
+    "nachname": "Bauer",
+    "alter": 35,
+    "krankenkasse": "AOK",
+    "historie": []
+  },
+  {
+    "id": 5,
+    "vorname": "Julia",
+    "nachname": "Müller",
+    "alter": 22,
+    "krankenkasse": "AOK",
+    "historie": []
+  },
+  {
+    "id": 6,
+    "vorname": "Tony",
+    "nachname": "Müller",
+    "alter": 25,
+    "krankenkasse": "AOK",
+    "historie": []
+  },
+  {
+    "id": 7,
+    "vorname": "Anton",
+    "nachname": "Müller",
+    "alter": 31,
+    "krankenkasse": "AOKPLUS",
+    "historie": []
+  },
+  {
+    "id": 8,
+    "vorname": "Maria",
+    "nachname": "Kross",
+    "alter": 24,
+    "krankenkasse": "AOK",
+    "historie": []
+  },
+  {
+    "id": 9,
+    "vorname": "Emma",
+    "nachname": "Schneider",
+    "alter": 18,
+    "krankenkasse": "AOK",
+    "historie": []
+  },
+  {
+    "id": 10,
+    "vorname": "Gabriel",
+    "nachname": "Martinelie",
+    "alter": 34,
+    "krankenkasse": "AOKPLUS",
+    "historie": []
+  },
+  {
+    "id": 11,
+    "vorname": "Martin",
+    "nachname": "Liebsch",
+    "alter": 45,
+    "krankenkasse": "AOKPLUS",
+    "historie": []
+  }
+]

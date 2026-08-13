@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "datum": "2026-09-10",
+    "uhrzeit": "15:30",
+    "dauerMinuten": 45,
+    "patientId": 1,
+    "behandlungsArt": "Zahnreinigung",
+    "notizen": ""
+  },
+  {
+    "id": 2,
+    "datum": "2026-05-20",
+    "uhrzeit": "14:00",
+    "dauerMinuten": 30,
+    "patientId": 11,
+    "behandlungsArt": "Kontrolltermin",
+    "notizen": ""
+  }
+]
